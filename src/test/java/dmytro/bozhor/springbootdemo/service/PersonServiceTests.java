@@ -2,14 +2,11 @@ package dmytro.bozhor.springbootdemo.service;
 
 import dmytro.bozhor.springbootdemo.Person;
 import dmytro.bozhor.springbootdemo.repository.PersonRepository;
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import org.junit.jupiter.api.extension.Extensions;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
 
 import static org.assertj.core.api.Assertions.*;
