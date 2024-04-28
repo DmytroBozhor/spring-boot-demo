@@ -1,7 +1,8 @@
-package dmytro.bozhor.springbootdemo.service;
+package dmytro.bozhor.springbootdemo.unit.service;
 
 import dmytro.bozhor.springbootdemo.Person;
 import dmytro.bozhor.springbootdemo.repository.PersonRepository;
+import dmytro.bozhor.springbootdemo.service.PersonService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
