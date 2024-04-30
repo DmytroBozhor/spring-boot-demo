@@ -13,7 +13,6 @@ import static org.junit.jupiter.api.Assertions.assertAll;
 
 @RequiredArgsConstructor
 @IT
-@Transactional
 public class PersonServiceWithEntityManagerIT {
 
     private final EntityManager entityManager;
