@@ -13,3 +13,8 @@ spring:
           auto: create-drop
         show_sql: true
         format_sql: true
+        highlight_sql: true
+
+logging:
+  level:
+    root: info
